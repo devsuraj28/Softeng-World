@@ -1,0 +1,10 @@
+body{
+	font-size:16px;
+	background-color: #fff;
+	font-family:Aerial,Helvetica,sans-serif;
+}
+#header-nav{
+	background-color:#bfbfbf;
+	border-radius:0;
+	border:0;
+}
